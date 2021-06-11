@@ -1,5 +1,3 @@
-const URL = process.env.key;
-
-export const API_KEY = "URL";
+export const API_KEY = "AIzaSyBOpLOexvRVkHWLOqMYXJydhWaLt4cLHRg";
 
 export default API_KEY
